@@ -1,0 +1,10 @@
+
+L	java:S1061"+Replace this use of System.out by a logger.(ÁöıÕÿÿÿÿÿ8áÅáÔ1
+L	java:S1063"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8ŸáÅáÔ1
+9
+java:S62056"Remove this redundant block.(Ã·ä´8ŸáÅáÔ1
+L	java:S1067"+Replace this use of System.out by a logger.(çµ×áÿÿÿÿÿ8 áÅáÔ1
+>
+java:S62059"Remove this redundant block.(ıÉçøÿÿÿÿ8 áÅáÔ1
+G	java:S106:"+Replace this use of System.out by a logger.(÷Ûµá8 áÅáÔ1
+E	java:S108<")Either remove or fill this block of code.(üØô8 áÅáÔ1

@@ -1,0 +1,9 @@
+
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ô÷˜Ú8ËµŞ„Ô1
+d
+java:S1854"BRemove this useless assignment to local variable "hashedPassword".(Âúäıÿÿÿÿ8ÏµŞ„Ô1
+o
+java:S1172"RRemove these unused method parameters "username", "password", "email", "birthday".(Ô÷˜Ú8ÒµŞ„Ô1
+U
+java:S1144"8Remove this unused private "validateSighUpInput" method.(Ô÷˜Ú8ÔµŞ„Ô1
